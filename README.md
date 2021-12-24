@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World! This is Rick! ![img](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+### Hello World! This is Rick! 👋
